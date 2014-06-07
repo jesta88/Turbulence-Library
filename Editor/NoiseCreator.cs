@@ -104,7 +104,7 @@ public class NoiseCreator : EditorWindow
 
     void OnEnable()
     {
-        tempShaderLocation = Application.dataPath + "/TurbulenceLibrary/Resources/shader.template";
+        tempShaderLocation = Application.dataPath + "/Turbulence-Library/Resources/shader.template";
         tempShader = File.ReadAllText(tempShaderLocation);
     }
 
