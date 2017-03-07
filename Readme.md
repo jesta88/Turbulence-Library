@@ -1,4 +1,6 @@
-Turbulence Library by Jérémie St-Amand
+Turbulence Library by JÃ©rÃ©mie St-Amand
+
+![gif](example.gif)
 
 --- Summary ---
 
